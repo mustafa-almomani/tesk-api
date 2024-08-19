@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RMDyIYBX5LwX7ydAFmUTgaY6wHLRur0cKbH09f8oO1w=",
+  "Source": "task1api",
+  "BasePath": "_content/task1api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
