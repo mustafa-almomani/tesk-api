@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\almom\\source\\repos\\task 2 api\\task 2 api\\task 2 api.csproj": {}
+    "C:\\Users\\almom\\OneDrive\\سطح المكتب\\api\\tesk-api\\task 2 api\\task 2 api\\task 2 api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\almom\\source\\repos\\task 2 api\\task 2 api\\task 2 api.csproj": {
+    "C:\\Users\\almom\\OneDrive\\سطح المكتب\\api\\tesk-api\\task 2 api\\task 2 api\\task 2 api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\almom\\source\\repos\\task 2 api\\task 2 api\\task 2 api.csproj",
+        "projectUniqueName": "C:\\Users\\almom\\OneDrive\\سطح المكتب\\api\\tesk-api\\task 2 api\\task 2 api\\task 2 api.csproj",
         "projectName": "task 2 api",
-        "projectPath": "C:\\Users\\almom\\source\\repos\\task 2 api\\task 2 api\\task 2 api.csproj",
+        "projectPath": "C:\\Users\\almom\\OneDrive\\سطح المكتب\\api\\tesk-api\\task 2 api\\task 2 api\\task 2 api.csproj",
         "packagesPath": "C:\\Users\\almom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\almom\\source\\repos\\task 2 api\\task 2 api\\obj\\",
+        "outputPath": "C:\\Users\\almom\\OneDrive\\سطح المكتب\\api\\tesk-api\\task 2 api\\task 2 api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

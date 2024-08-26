@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using task_2_api.DTO;
 using task_2_api.Models;
 
 namespace task_2_api.Controllers
@@ -76,7 +77,61 @@ namespace task_2_api.Controllers
             _db.SaveChanges();
             return NoContent();
         }
+        [HttpPost]
+        public IActionResult category([FromForm] categoryrequestDTO category )
+        {
+            var newcategory = new Category();
+            newcategory.CategoryName=category.CategoryName;
+            var uploadImageFolder = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
+            if (!Directory.Exists(uploadImageFolder))
+            {
+                Directory.CreateDirectory(uploadImageFolder);
+            }
+            var imageFile = Path.Combine(uploadImageFolder, category.CategoryImage.FileName);
+            using (var stream = new FileStream(imageFile, FileMode.Create))
+            {
+                category.CategoryImage.CopyToAsync(stream);
+            }
 
+            _db.Categories.Add(newcategory);
+            _db.SaveChanges();
+
+
+            return Ok(newcategory);
+        }
+
+
+
+
+
+
+        [HttpPut("category/{id}")]
+        public IActionResult updatecategory(int id, [FromForm] categoryrequestDTO obj )
+        {
+
+            var category = _db.Categories.Find(id);
+            var uploadImageFolder = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
+            if (!Directory.Exists(uploadImageFolder))
+            {
+                Directory.CreateDirectory(uploadImageFolder);
+            }
+            var imageFile = Path.Combine(uploadImageFolder, obj.CategoryImage.FileName);
+            using (var stream = new FileStream(imageFile, FileMode.Create))
+            {
+                obj.CategoryImage.CopyToAsync(stream);
+            }
+
+            category.CategoryName = obj.CategoryName;   
+            category.CategoryImage = obj.CategoryImage.FileName??category.CategoryImage; 
+
+            _db.Categories.Update(category);
+            _db.SaveChanges();
+
+            return Ok();
+        }
+
+
+      
 
 
 

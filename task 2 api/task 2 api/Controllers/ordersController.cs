@@ -36,12 +36,26 @@ namespace task_2_api.Controllers
             return Ok(order);
         }
 
-        [HttpGet("order/GetOrderByname {date}")]
-        public ActionResult GetOrderByName(string date)
+        [HttpGet("order/GetOrderBydate {date}")]
+        public ActionResult GetOrderBydate(string date)
         {
             if (date == null) { return BadRequest(); }
             var order = _db.Orders.FirstOrDefault(c => c.OrderDate == date);
             if (order == null) { return NotFound(); }
+            return Ok(order);
+        }
+
+
+        [HttpGet("order/GetOrderByname {name}")]
+        public ActionResult GetOrderByName(string name)
+        {
+            if (name == null) {
+                return BadRequest(); 
+            }
+            var order = _db.Users.FirstOrDefault(c => c.Username == name);
+            if (order == null) {
+                return NotFound();
+            }
             return Ok(order);
         }
 
