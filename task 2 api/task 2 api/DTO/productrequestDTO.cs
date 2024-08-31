@@ -9,5 +9,6 @@
         public decimal? Price { get; set; }
 
         public IFormFile ProductImage { get; set; }
+     
     }
 }

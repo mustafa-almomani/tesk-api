@@ -30,7 +30,7 @@ namespace task_2_api.Controllers
         }
 
         [HttpGet]
-        [Route("Categories/ getCategoriesbyid/{id:min(3)}")]
+        [Route("Categories/ getCategoriesbyid/{id}")]
         public IActionResult getCategory(int id) 
         {
             if (id <= 0)
@@ -92,7 +92,7 @@ namespace task_2_api.Controllers
             {
                 category.CategoryImage.CopyToAsync(stream);
             }
-
+            newcategory.CategoryImage = category.CategoryImage.FileName;
             _db.Categories.Add(newcategory);
             _db.SaveChanges();
 

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+      integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  </head>
+  <body>
+    <body>
+      <div class="container-fluid">
+        <div class="row">
+          <!-- Sidebar -->
+          <div class="col-md-2 bg-dark p-3" style="height: 100vh" id="msb">
+            <nav class="navbar navbar-default">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <div class="brand-wrapper">
+                  <!-- Brand -->
+                  <div class="brand-name-wrapper">
+                    <a class="navbar-brand" href="#">admin Dashboard</a>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Main Menu -->
+              <div class="side-menu-container">
+                <ul class="nav navbar-nav">
+                  <li>
+                    <a href="caregory.html"
+                      ><i class="fa fa-dashboard"></i> cateogry</a
+                    >
+                  </li>
+                  <li class="active">
+                    <a href="product.html"
+                      ><i class="fa fa-puzzle-piece"></i> product</a
+                    >
+                  </li>
+                </ul>
+              </div>
+              <!-- /.navbar-collapse -->
+            </nav>
+          </div>
+
+          <div class="col-md-10">
+            <div class="container w-60 mt-4">
+              <form id="form">
+                <select name="dropdown" id="dropdown"></select>
+                <div class="mb-3">
+                  <label for="exampleInputEmail1" class="form-label"
+                    >ProductName</label
+                  >
+                  <input
+                    type="text"
+                    name="ProductName"
+                    class="form-control"
+                    id="ProductName"
+                    aria-describedby="emailHelp"
+                  />
+                </div>
+
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label"
+                    >Descr</label
+                  >
+                  <input
+                    type="text"
+                    name="Descr"
+                    class="form-control"
+                    id="Descr"
+                  />
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label"
+                    >Price</label
+                  >
+                  <input
+                    type="number"
+                    name="Price"
+                    class="form-control"
+                    id="Price"
+                  />
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label"
+                    >ProductImage</label
+                  >
+                  <input
+                    type="file"
+                    name="ProductImage"
+                    class="form-control"
+                    id="ProductImage"
+                  />
+                </div>
+                <div class="mb-3">
+                  
+                  <select id="Category" class="form-select" aria-label="Default select example">
+
+                  </select>
+                 
+                </div>
+                <button
+                  type="submit"
+                  class="btn btn-primary"
+                  onclick="editproduct()"
+                >
+                  Submit
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script src="editproduct.js"></script>
+      <script
+        src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+        integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+        crossorigin="anonymous"
+      ></script>
+      <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+        crossorigin="anonymous"
+      ></script>
+      <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"
+      ></script>
+    </body>
+  </body>
+</html>

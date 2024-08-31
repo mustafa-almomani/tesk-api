@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\dto\\cartitemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\cartitemrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\dto\\cartupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\cartupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\dto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +27,36 @@
       "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\dto\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\dto\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\cartitemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|c:\\users\\almom\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\dto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E094AF9-92C8-41D1-89D5-A2CC3E100999}|task 2 api\\task 2 api.csproj|solutionrelative:task 2 api\\dto\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +74,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "userRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\userRequestDTO.cs",
-              "RelativeDocumentMoniker": "task 2 api\\DTO\\userRequestDTO.cs",
-              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\userRequestDTO.cs",
-              "RelativeToolTip": "task 2 api\\DTO\\userRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "DocumentIndex": 0,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "task 2 api\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "task 2 api\\Controllers\\CartItemController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwEIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T20:02:33.894Z",
+              "WhenOpened": "2024-08-28T09:49:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "productrequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\productrequestDTO.cs",
+              "RelativeDocumentMoniker": "task 2 api\\DTO\\productrequestDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\productrequestDTO.cs",
+              "RelativeToolTip": "task 2 api\\DTO\\productrequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:51:12.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "categoryController.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\categoryController.cs",
+              "RelativeDocumentMoniker": "task 2 api\\Controllers\\categoryController.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\categoryController.cs",
+              "RelativeToolTip": "task 2 api\\Controllers\\categoryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T21:24:15.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CartItemRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\CartItemRequestDTO.cs",
+              "RelativeDocumentMoniker": "task 2 api\\DTO\\CartItemRequestDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\CartItemRequestDTO.cs",
+              "RelativeToolTip": "task 2 api\\DTO\\CartItemRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T10:32:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cartupdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\cartupdateDTO.cs",
+              "RelativeDocumentMoniker": "task 2 api\\DTO\\cartupdateDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\cartupdateDTO.cs",
+              "RelativeToolTip": "task 2 api\\DTO\\cartupdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:00:41.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "productController.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\productController.cs",
               "RelativeDocumentMoniker": "task 2 api\\Controllers\\productController.cs",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\productController.cs",
               "RelativeToolTip": "task 2 api\\Controllers\\productController.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAQwHsAAAA1AAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwHEAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T21:23:23.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ordersController.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\ordersController.cs",
               "RelativeDocumentMoniker": "task 2 api\\Controllers\\ordersController.cs",
@@ -97,71 +165,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "categoryrequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\categoryrequestDTO.cs",
               "RelativeDocumentMoniker": "task 2 api\\DTO\\categoryrequestDTO.cs",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\categoryrequestDTO.cs",
               "RelativeToolTip": "task 2 api\\DTO\\categoryrequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T07:52:12.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "cartItemResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\cartItemResponseDTO.cs",
+              "RelativeDocumentMoniker": "task 2 api\\DTO\\cartItemResponseDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\cartItemResponseDTO.cs",
+              "RelativeToolTip": "task 2 api\\DTO\\cartItemResponseDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:57:58.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "usersController.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\usersController.cs",
               "RelativeDocumentMoniker": "task 2 api\\Controllers\\usersController.cs",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\usersController.cs",
               "RelativeToolTip": "task 2 api\\Controllers\\usersController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAGAAAAAuAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAqwFQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T21:24:27.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "categoryController.cs",
-              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\categoryController.cs",
-              "RelativeDocumentMoniker": "task 2 api\\Controllers\\categoryController.cs",
-              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Controllers\\categoryController.cs",
-              "RelativeToolTip": "task 2 api\\Controllers\\categoryController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAswGwAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:24:15.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "productrequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\productrequestDTO.cs",
-              "RelativeDocumentMoniker": "task 2 api\\DTO\\productrequestDTO.cs",
-              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\productrequestDTO.cs",
-              "RelativeToolTip": "task 2 api\\DTO\\productrequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T07:51:12.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\appsettings.json",
               "RelativeDocumentMoniker": "task 2 api\\appsettings.json",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\appsettings.json",
               "RelativeToolTip": "task 2 api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-24T21:21:32.128Z"
+              "WhenOpened": "2024-08-24T21:21:32.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Program.cs",
               "RelativeDocumentMoniker": "task 2 api\\Program.cs",
@@ -174,15 +230,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "task 2 api\\Models\\MyDbContext.cs",
               "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\Models\\MyDbContext.cs",
               "RelativeToolTip": "task 2 api\\Models\\MyDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T21:21:07.707Z"
+              "WhenOpened": "2024-08-24T21:21:07.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "userRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\userRequestDTO.cs",
+              "RelativeDocumentMoniker": "task 2 api\\DTO\\userRequestDTO.cs",
+              "ToolTip": "C:\\Users\\almom\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\api\\tesk-api\\task 2 api\\task 2 api\\DTO\\userRequestDTO.cs",
+              "RelativeToolTip": "task 2 api\\DTO\\userRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:02:33.894Z",
+              "EditorCaption": ""
             }
           ]
         },
