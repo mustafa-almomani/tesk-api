@@ -56,7 +56,7 @@ namespace task_2_api.Controllers
         }
 
         [HttpPut("cartitem/updateitem/{id}")]
-        public IActionResult editproduct(int id,[FromBody] cartupdateDTO obj )
+        public IActionResult editproduct(int id, [FromBody] cartupdateDTO obj)
         {
             var cart = _db.CartItems.Find(id);
             cart.Quantity = obj.Quantity;
@@ -69,7 +69,7 @@ namespace task_2_api.Controllers
         {
             var item = _db.CartItems.Find(id);
             _db.Remove(item);
-            _db.SaveChanges();  
+            _db.SaveChanges();
             return Ok();
         }
 

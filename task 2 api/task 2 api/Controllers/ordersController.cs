@@ -49,11 +49,13 @@ namespace task_2_api.Controllers
         [HttpGet("order/GetOrderByname {name}")]
         public ActionResult GetOrderByName(string name)
         {
-            if (name == null) {
-                return BadRequest(); 
+            if (name == null)
+            {
+                return BadRequest();
             }
             var order = _db.Users.FirstOrDefault(c => c.Username == name);
-            if (order == null) {
+            if (order == null)
+            {
                 return NotFound();
             }
             return Ok(order);
@@ -62,14 +64,14 @@ namespace task_2_api.Controllers
         [HttpDelete("order/delete{id}")]
         public ActionResult Delete(int id)
         {
-            if(id == 0)
-            { 
-                return BadRequest(); 
+            if (id == 0)
+            {
+                return BadRequest();
             }
-            var order = _db.Orders.FirstOrDefault(c=>c.OrderId==id);
+            var order = _db.Orders.FirstOrDefault(c => c.OrderId == id);
             _db.Orders.Remove(order);
             _db.SaveChanges();
-            return NoContent ();
+            return NoContent();
         }
 
     }

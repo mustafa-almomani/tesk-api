@@ -20,7 +20,7 @@ namespace task_2_api.Controllers
         [HttpGet("product/getAllProducts")]
         public IActionResult getAllProducts()
         {
-            var product = _db.Products.ToList();
+            var product = _db.Products.OrderBy(p => p.ProductName).ToList().TakeLast(5);
             if (product == null)
             {
                 return NotFound();
@@ -113,7 +113,7 @@ namespace task_2_api.Controllers
             product.ProductName = obj.ProductName ?? product.ProductName;
             product.Descr = obj.Descr ?? product.Descr;
             product.Price = obj.Price ?? product.Price;
-      
+
             var uploadImageFolder = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
             if (!Directory.Exists(uploadImageFolder))
             {
@@ -155,13 +155,17 @@ namespace task_2_api.Controllers
             {
                 return Ok("true");
             }
-            else { return Ok("false");
+            else
+            {
+                return Ok("false");
             }
 
         }
 
 
 
-        
+
+
+
     }
 }

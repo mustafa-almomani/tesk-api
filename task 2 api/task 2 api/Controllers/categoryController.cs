@@ -20,7 +20,7 @@ namespace task_2_api.Controllers
         [HttpGet]
         public IActionResult getAllCategories()
         {
-            
+
             var Categories = _db.Categories.ToList();
             if (Categories == null)
             {
@@ -31,11 +31,11 @@ namespace task_2_api.Controllers
 
         [HttpGet]
         [Route("Categories/ getCategoriesbyid/{id}")]
-        public IActionResult getCategory(int id) 
+        public IActionResult getCategory(int id)
         {
             if (id <= 0)
             {
-                return BadRequest(); 
+                return BadRequest();
             }
             var Categories = _db.Categories.Find(id);
             if (Categories == null)
@@ -50,8 +50,8 @@ namespace task_2_api.Controllers
         public IActionResult CategoryByNameCategoryByName(string name)
         {
 
-            var Category = _db.Categories.FirstOrDefault(c=>c.CategoryName==name);
-            if (Category == null) 
+            var Category = _db.Categories.FirstOrDefault(c => c.CategoryName == name);
+            if (Category == null)
             {
                 return NotFound();
             }
@@ -61,16 +61,16 @@ namespace task_2_api.Controllers
 
         [HttpDelete]
         [Route("Categories/CategoryByid{id}")]
-        public IActionResult DeleteCategory(int id) 
+        public IActionResult DeleteCategory(int id)
         {
             if (id <= 0)
             {
                 return BadRequest();
             }
-            var Category = _db.Categories.FirstOrDefault(c=>c.CategoryId==id);
-            if (Category == null) 
+            var Category = _db.Categories.FirstOrDefault(c => c.CategoryId == id);
+            if (Category == null)
             {
-                return NotFound(); 
+                return NotFound();
             }
 
             _db.Categories.Remove(Category);
@@ -78,10 +78,10 @@ namespace task_2_api.Controllers
             return NoContent();
         }
         [HttpPost]
-        public IActionResult category([FromForm] categoryrequestDTO category )
+        public IActionResult category([FromForm] categoryrequestDTO category)
         {
             var newcategory = new Category();
-            newcategory.CategoryName=category.CategoryName;
+            newcategory.CategoryName = category.CategoryName;
             var uploadImageFolder = Path.Combine(Directory.GetCurrentDirectory(), "Uploads");
             if (!Directory.Exists(uploadImageFolder))
             {
@@ -106,7 +106,7 @@ namespace task_2_api.Controllers
 
 
         [HttpPut("category/{id}")]
-        public IActionResult updatecategory(int id, [FromForm] categoryrequestDTO obj )
+        public IActionResult updatecategory(int id, [FromForm] categoryrequestDTO obj)
         {
 
             var category = _db.Categories.Find(id);
@@ -121,8 +121,8 @@ namespace task_2_api.Controllers
                 obj.CategoryImage.CopyToAsync(stream);
             }
 
-            category.CategoryName = obj.CategoryName;   
-            category.CategoryImage = obj.CategoryImage.FileName??category.CategoryImage; 
+            category.CategoryName = obj.CategoryName;
+            category.CategoryImage = obj.CategoryImage.FileName ?? category.CategoryImage;
 
             _db.Categories.Update(category);
             _db.SaveChanges();
@@ -131,7 +131,7 @@ namespace task_2_api.Controllers
         }
 
 
-      
+
 
 
 

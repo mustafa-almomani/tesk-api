@@ -135,3 +135,11 @@ C:\Users\almom\source\repos\task1api\task1api\obj\Debug\net8.0\refint\task1api.d
 C:\Users\almom\source\repos\task1api\task1api\obj\Debug\net8.0\task1api.pdb
 C:\Users\almom\source\repos\task1api\task1api\obj\Debug\net8.0\task1api.genruntimeconfig.cache
 C:\Users\almom\source\repos\task1api\task1api\obj\Debug\net8.0\ref\task1api.dll
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.csproj.AssemblyReference.cache
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.AssemblyInfoInputs.cache
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.AssemblyInfo.cs
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.csproj.CoreCompileInputs.cache
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\almom\OneDrive\سطح المكتب\api\tesk-api\task1api\task1api\obj\Debug\net8.0\task1api.sourcelink.json
