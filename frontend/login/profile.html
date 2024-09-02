@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <form id="profileForm" style="margin: 200px;border: 1px solid black;border-radius: 10px;padding: 2%;">
+        <h1>Profile Page</h1>
+        <div class="mb-3">
+            <label  class="form-label">The Email</label>
+            <input type="text" onchange="userinfo(value)" class="form-control" id="username" name="username">
+        </div>
+        <div class="mb-3">
+            <label  class="form-label">Your ID</label>
+            <p id="userid"></p>
+        </div>
+        <div class="mb-3">
+            <label  class="form-label">Name</label>
+            <p id="Username"></p>
+        </div>
+
+        <div class="mb-3">
+            <label  class="form-label">Email</label>
+            <p id="useremail"></p>
+        </div>
+ 
+    </form>
+    <script src="profile.js"></script>
+</body>
+</html>

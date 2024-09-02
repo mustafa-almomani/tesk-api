@@ -153,6 +153,12 @@ namespace task_2_api.Controllers
         [HttpPost("register")]
         public IActionResult register([FromForm] UserDTO userDTO)
         {
+            if (userDTO.Password == userDTO.confairmpassword) 
+            {
+                return BadRequest();
+            }
+
+
             byte[] hash;
             byte[] salt;
               passwordHasherMethod.createPasswordHash(userDTO.Password,out hash,out salt);
@@ -170,5 +176,22 @@ namespace task_2_api.Controllers
             _db.SaveChanges();
             return Ok(user);
         }
+
+
+        [HttpGet("User/Userinfo/{email}")]
+        public IActionResult userinfo(string email )
+        {
+            var user = _db.Users.FirstOrDefault(x => x.Email == email);
+            var DTO = new profileDTO
+            {
+                UserId = user.UserId,
+                Username = user.Username,
+                Email = user.Email,
+            };
+
+
+            return Ok(DTO);
+        }
+
     }
 }
